@@ -1,0 +1,13 @@
+sagemaker
+pandas
+numpy
+datasets
+transformers
+peft
+evaluate
+torch 
+torchvision 
+torchaudio
+numpy
+scikit-learn
+ipykernel
